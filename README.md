@@ -1,5 +1,5 @@
 ### Language and Tools
-![C#](https://img.shields.io/badge/-ñ%23-090909?style=for-the-badge&logo=csharp&logoColor=4E62E0)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=4E62E0)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=D345E0)
 
 ### Follow Me
