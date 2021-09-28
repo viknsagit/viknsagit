@@ -1,8 +1,7 @@
 ### Language and Tools
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=a931c4)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=a931c4)
-![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=windows&logoColor=4287f5)
-![Firebird](https://img.shields.io/badge/-Firebird-090909?style=for-the-badge&logo=firefox&logoColor=fc8403)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=4E62E0)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=D345E0)
+![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=WPF&logoColor=D345E0)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/viknsagit)
