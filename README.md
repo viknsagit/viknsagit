@@ -10,6 +10,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/viknsagit)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=fffff)](https://vk.com/viknsagit)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viknsagit&count_private=true&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viknsagit&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
