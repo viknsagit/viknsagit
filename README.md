@@ -2,7 +2,6 @@
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=a931c4)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=5feb34)
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=windows&logoColor=4287f5)
-![Xamarin](https://img.shields.io/badge/-Xamarin-090909?style=for-the-badge&logo=xamarin&logoColor=4287f5)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=b0acad)
 ![DSharp](https://img.shields.io/badge/-DSharp-090909?style=for-the-badge&logo=Discord&logoColor=eb9c34)
 
