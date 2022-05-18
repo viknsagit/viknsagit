@@ -2,8 +2,11 @@
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=a931c4)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=5feb34)
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=windows&logoColor=4287f5)
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=b0acad)
 ![DSharp](https://img.shields.io/badge/-DSharp-090909?style=for-the-badge&logo=Discord&logoColor=eb9c34)
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=b0acad)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=b0acad)
+![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=UnrealEngine&logoColor=b0acad)
+
 
 
 ### Follow Me
