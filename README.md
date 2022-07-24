@@ -5,9 +5,6 @@
 ![DSharp](https://img.shields.io/badge/-DSharp-090909?style=for-the-badge&logo=Discord&logoColor=eb9c34)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=b0acad)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=b0acad)
-![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=UnrealEngine&logoColor=b0acad)
-
-
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/viknsagit)
