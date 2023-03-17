@@ -8,7 +8,7 @@
 </div>
 </div>
 
-## :hammer_and_wrench:Language and Tools
+# :hammer_and_wrench:Language and Tools
 ## <img src="/img/.net.png" alt=".net image" style="height: 20px; width:20px;"/> .Net 
  
 ![.ML](https://img.shields.io/badge/-ML.Net-090909?style=for-the-badge&logo=dotnet)
