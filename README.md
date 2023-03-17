@@ -9,17 +9,18 @@
 </div>
 
 ## :hammer_and_wrench:Language and Tools
- ![.Net](https://img.shields.io/badge/-.Net-090909?style=for-the-badge&logo=dotnet&logoColor=a931c4)
+## <img src="/img/.net.png" alt=".net image" style="height: 20px; width:20px;"/> .Net 
  
 ![.ML](https://img.shields.io/badge/-ML.Net-090909?style=for-the-badge&logo=dotnet)
 ![MAUI](https://img.shields.io/badge/-MAUI-090909?style=for-the-badge&logo=xamarin)
-![AspNet](https://img.shields.io/badge/-Asp_Net-090909?style=for-the-badge&logo=dotnet)
+![Asp Net](https://img.shields.io/badge/-Asp_Net-090909?style=for-the-badge&logo=dotnet)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity)
 ![DSharp](https://img.shields.io/badge/-DSharp-090909?style=for-the-badge&logo=Discord)
-![Telegram Bot](https://img.shields.io/badge/-Telegram_Bots-090909?style=for-the-badge&logo=Telegram)
+![Telegram Bots](https://img.shields.io/badge/-Telegram_Bots-090909?style=for-the-badge&logo=Telegram)
 
 ## :hammer_and_wrench:Other tools
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Solidity)
+![HardHat](https://img.shields.io/badge/-HardHat-090909?style=for-the-badge&logo=redhat)
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![R](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![BS](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
