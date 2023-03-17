@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e4717auiisim0950ln2v8b3274xvyx7jcng2ckxxyf8&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e4717auiisim0950ln2v8b3274xvyx7jcng2ckxxyf8&rid=giphy.gif&ct=g" width="120"/>
   <div id="badges">
   <a href="https://t.me/viknsagit">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" alt="Telegram badge"/>
