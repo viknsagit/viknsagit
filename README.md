@@ -33,7 +33,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viknsagit&theme=dark&background=000000)](https://git.io/streak-stats)
 ### Roadmaps
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d53904aa497d7fa522f16f?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64d53904aa497d7fa522f16f?variant=dark)](https://roadmap.sh)
 
 
 
