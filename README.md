@@ -5,6 +5,9 @@
   <a href="https://t.me/viknsagit">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" alt="Telegram badge"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/-Nuget-090909?style=for-the-badge&logo=nuget" alt="Nuget badge"/>
+  </a>
 </div>
 </div>
 
