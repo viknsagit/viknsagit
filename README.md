@@ -5,7 +5,7 @@
   <a href="https://t.me/viknsagit">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" alt="Telegram badge"/>
   </a>
-  <a>
+  <a href="https://www.nuget.org/profiles/viknsagit">
     <img src="https://img.shields.io/badge/-Nuget-090909?style=for-the-badge&logo=nuget" alt="Nuget badge"/>
   </a>
 </div>
