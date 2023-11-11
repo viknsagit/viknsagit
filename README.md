@@ -41,6 +41,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viknsagit&langs_count=6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viknsagit&theme=dark&background=000000)](https://git.io/streak-stats)
+### Roadmaps
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64d53904aa497d7fa522f16f?variant=dark&roadmaps=backend%2Caspnet-core%2Cpostgresql-dba%2Cmongodb)](https://roadmap.sh)
 
 
 
