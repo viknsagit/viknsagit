@@ -7,11 +7,12 @@
 - Коммерческие боты для Telegram с подключением эквайринга
 - Blockchain Indexer + Explorer
 - Разработка сайта для матрасной компании
+- Создание смарт контрактов и взаимодействие с ними через Telegram ботов
 
 ## Навыки
 
 - **Языки программирования:** C#
-- **Фреймворки и библиотеки:** Blazor, MAUI, Entity Framework Core, ASP.NET Core
+- **Фреймворки и библиотеки:** Blazor, MAUI, Entity Framework Core, ASP.NET Core, Nethereum
 - **Базы данных:** MongoDB, PostgreSQL
 - **Инструменты и платформы:** Git, Docker, Postman, GitLab CI/CD, GitHub CI/CD
 - **Тестирование:** Практики Unit Testing для обеспечения качества кода.
