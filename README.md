@@ -12,7 +12,7 @@
 ## Навыки
 
 - **Языки программирования:** C#
-- **Фреймворки и библиотеки:** Blazor, MAUI, Entity Framework Core, ASP.NET Core, Nethereum, MassTransit, RabbitMQ, SignalR, MediatR, Kafka, 
+- **Фреймворки и библиотеки:** Blazor, MAUI, Entity Framework Core, ASP.NET Core, Nethereum, MassTransit, SignalR, MediatR, Kafka, 
 - **Базы данных:** MongoDB, PostgreSQL, Redis
 - **Инструменты и платформы:** Git, Docker, Postman, GitLab CI/CD, GitHub CI/CD
 - **Тестирование:** Практики Unit Testing для обеспечения качества кода.
