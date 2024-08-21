@@ -21,4 +21,3 @@
 
 - 📧 Email: [vikn.sagit@outlook.com](mailto:vikn.sagit@outlook.com)
 - 💬 Telegram: [viknsagit](https://t.me/viknsagit)
-- 📦 NuGet: [viknsagit](https://www.nuget.org/profiles/viknsagit)
