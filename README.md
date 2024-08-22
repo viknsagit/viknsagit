@@ -39,6 +39,7 @@
   - GitHub CI/CD
   - Nginx
   - Dokploy
+  - Portainer
     
 - **Тестирование**: покрытие проектов unit-тестами.
 
