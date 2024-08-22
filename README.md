@@ -38,7 +38,7 @@
   - GitLab CI/CD
   - GitHub CI/CD
   - Nginx
-  - Dokku
+  - Dokploy
     
 - **Тестирование**: покрытие проектов unit-тестами.
 
