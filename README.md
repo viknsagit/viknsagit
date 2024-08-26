@@ -42,9 +42,9 @@
   - Portainer
     
 - **Тестирование**:
-- MSTest
-- NUnit
-- xUnit
+  - MSTest
+  - NUnit
+  - xUnit
 
 ## Контакты
 
