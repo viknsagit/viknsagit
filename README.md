@@ -11,7 +11,7 @@
 - **C#** (опыт работы с .NET 5/6/7/8/9)
 
 ### Фреймворки и технологии:
-- **ASP.NET Core**, **Blazor**, **Entity Framework Core**, **SignalR**, **MassTransit**, **Nethereum**, **MediatR**, **Kafka**, **Avalonia**, **.NET MAUI**
+- **ASP.NET Core**, **Blazor**, **Entity Framework Core**, **SignalR**, **MassTransit**, **Nethereum**, **MediatR**, **Kafka**, **Avalonia**, **.NET MAUI**, **Keycloak**
 
 ### Базы данных:
 - **MongoDB**, **PostgreSQL**, **MSSQL**, **Redis**
