@@ -8,7 +8,7 @@
 ## Ключевые навыки
 
 ### Языки программирования:
-- **C#** (опыт работы с .NET 5/6/7/8)
+- **C#** (опыт работы с .NET 5/6/7/8/9)
 
 ### Фреймворки и технологии:
 - **ASP.NET Core**, **Blazor**, **Entity Framework Core**, **SignalR**, **MassTransit**, **Nethereum**, **MediatR**, **Kafka**, **Avalonia**, **.NET MAUI**
