@@ -1,5 +1,3 @@
----
-
 ## 🛠️ Ключевые навыки
 
 ### 💻 Языки программирования:
@@ -26,7 +24,6 @@
 
 - **Telegram:** [https://t.me/viknsagit](https://t.me/viknsagit)  
 - **Email:** [viknsagitariuswork@gmail.com](mailto:viknsagitariuswork@gmail.com)  
-- **Резюме на hh.ru:** [https://hh.ru/resume/db3df698ff0de8d9440039ed1f483170774f37](https://hh.ru/resume/db3df698ff0de8d9440039ed1f483170774f37)  
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=viknsagit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
