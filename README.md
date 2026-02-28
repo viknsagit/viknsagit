@@ -125,12 +125,6 @@ I'm a backend developer who loves building robust and scalable systems. Started 
   <img src="https://nirzak-streak-stats.vercel.app/?user=viknsagit&theme=dark&hide_border=false" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viknsagit&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
 ---
 
 <p align="center">
